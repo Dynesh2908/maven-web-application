@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>gandhi-bro-marraige-Release</name>
+	      <url>http://52.66.244.32:8081/repository/gandhi-bro-marraige-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>gandhi-bro-marraige</name>
+	      <url>http://52.66.244.32:8081/repository/gandhi-bro-marraige/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
